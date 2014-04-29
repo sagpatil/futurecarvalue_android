@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FutureValue</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="current_value">Enter Current Value</string>
+    <string name="new_value">Enter Value of New Car</string>
+    <string name="current_age">Enter Current Age</string>
+    <string name="future_age">How many year will you keep the car</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">Value of your car will be</string>
+	 
+</resources>
